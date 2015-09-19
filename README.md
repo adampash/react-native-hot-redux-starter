@@ -12,6 +12,12 @@ cd react-native-hot-redux-starter
 npm install
 ```
 
+Open `./node_modules/parse/lib/react-native/StorageController.react-native.js` and edit line 20 to read:
+
+```javascript
+var _reactNative = require('../../../react-native');
+```
+
 ## Development
 
 ```bash
