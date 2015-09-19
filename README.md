@@ -40,4 +40,4 @@ Uncomment the line in AppDelegate.m that loads the local main.jsbundle. (Line 46
 
 ## Thanks
 
-Many thanks to @gaearon for help debugging hot loading (along with all of his work that I'm using here).
+Many thanks to Dan Abramov for help debugging hot loading (along with all of his work that I'm using here).
