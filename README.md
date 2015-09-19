@@ -28,4 +28,4 @@ Uncomment the line in AppDelegate.m that loads the local main.jsbundle. (Line 46
 
 ## Todo
 
-[ ] Update for Android.
+- [ ] Update for Android.
