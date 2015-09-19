@@ -1,16 +1,12 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- */
-'use strict';
+'use strict'
 
-var React = require('react-native');
+var React = require('react-native')
 var {
   AppRegistry,
   StyleSheet,
   Text,
   View,
-} = React;
+} = React
 
 var react_native_starter = React.createClass({
   render: function() {
@@ -27,9 +23,9 @@ var react_native_starter = React.createClass({
           Cmd+D or shake for dev menu
         </Text>
       </View>
-    );
+    )
   }
-});
+})
 
 var styles = StyleSheet.create({
   container: {
@@ -48,6 +44,6 @@ var styles = StyleSheet.create({
     color: '#333333',
     marginBottom: 5,
   },
-});
+})
 
-AppRegistry.registerComponent('react_native_starter', () => react_native_starter);
+AppRegistry.registerComponent('react_native_starter', () => react_native_starter)

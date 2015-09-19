@@ -3,9 +3,21 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node_modules/react-native/packager/packager.sh"
+    "start": "./node_modules/.bin/react-native-webpack-server start",
+    "hot": "HOT=1 ./node_modules/.bin/react-native-webpack-server start --hot",
+    "bundle": "./node_modules/.bin/react-native-webpack-server bundle"
   },
   "dependencies": {
     "react-native": "^0.11.0"
+  },
+  "devDependencies": {
+    "babel": "^5.1.4",
+    "babel-core": "^5.1.4",
+    "babel-loader": "^5.0.0",
+    "babel-plugin-react-transform": "^1.0.5",
+    "react-native-webpack-server": "^0.4.0",
+    "react-transform-hmr": "^0.1.6",
+    "webpack": "^1.8.4",
+    "webpack-dev-server": "^1.8.0"
   }
 }
