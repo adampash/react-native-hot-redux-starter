@@ -4,6 +4,14 @@ This is a starter kit for building React Native apps using Redux and the react-n
 
 It's based on the BabelES6 example [here](https://github.com/mjohnston/react-native-webpack-server/tree/master/Examples/BabelES6).
 
+## Installation
+
+```bash
+git clone git@github.com:adampash/react-native-hot-redux-starter.git
+cd react-native-hot-redux-starter
+npm install
+```
+
 ## Development
 
 ```bash
