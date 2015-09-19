@@ -7,7 +7,7 @@ Hot reloading is based on the BabelES6 example [in @mjohnston's react-native-web
 ## Installation
 
 ```bash
-git clone git@github.com:adampash/react-native-hot-redux-starter.git
+git clone -b parse git@github.com:adampash/react-native-hot-redux-starter.git
 cd react-native-hot-redux-starter
 npm install
 ```
