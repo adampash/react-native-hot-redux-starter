@@ -1,6 +1,6 @@
 ## React Native Hot Redux Starter
 
-This is a starter kit for building React Native apps using Redux and the react-native-webpack-server for hot reloading of code.
+This is a starter kit for building React Native apps using Redux and the react-native-webpack-server for hot code reloading.
 
 Hot reloading is based on the BabelES6 example [in @mjohnston's react-native-webpack-server](https://github.com/mjohnston/react-native-webpack-server/tree/master/Examples/BabelES6).
 
