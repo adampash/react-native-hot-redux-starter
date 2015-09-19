@@ -2,7 +2,7 @@
 
 This is a starter kit for building React Native apps using Redux and the react-native-webpack-server for hot reloading of code.
 
-It's based on the BabelES6 example [here](https://github.com/mjohnston/react-native-webpack-server/tree/master/Examples/BabelES6).
+Hot reloading is based on the BabelES6 example [in @mjohnston's react-native-webpack-server](https://github.com/mjohnston/react-native-webpack-server/tree/master/Examples/BabelES6).
 
 ## Installation
 
@@ -37,3 +37,7 @@ Uncomment the line in AppDelegate.m that loads the local main.jsbundle. (Line 46
 ## Todo
 
 - [ ] Update for Android.
+
+## Thanks
+
+Many thanks to @gaearon for help debugging hot loading (along with all of his work that I'm using here).
