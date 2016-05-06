@@ -1,4 +1,6 @@
-## React Native Hot Redux Starter
+## React Native Hot Redux Starter (deprecated)
+
+Hot reloading is now [built into React Native](http://facebook.github.io/react-native/blog/2016/03/24/introducing-hot-reloading.html), so use that instead of this.
 
 This is a starter kit for building React Native apps using Redux and the react-native-webpack-server for hot code reloading.
 
